@@ -23,4 +23,4 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 Given a user is on Budget App without an internet connection when the user inputs a withdrawal or deposit then that will be shown on the page, and added to their transaction history when their connection is back online.
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
